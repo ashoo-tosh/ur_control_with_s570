@@ -147,7 +147,7 @@ indices = [7, 8, 10, 11, 12, 13]
 
 ## Author
 
-**Your Name / Team Name**
+**Ashootosh**
 Email: [ashutoshr980@gmail.com](mailto:your.email@example.com)
 Date: 2025-11-06
 
